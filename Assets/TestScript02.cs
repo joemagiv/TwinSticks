@@ -1,11 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TestScript01 : MonoBehaviour {
+public class TestScript02 : MonoBehaviour {
 
-	//Testing out some stuff for VersionControl
-
-	//Making a change to TestScript01
+	//More testing of source control!
 
 	// Use this for initialization
 	void Start () {
